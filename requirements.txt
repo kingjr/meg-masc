@@ -1,0 +1,9 @@
+pandas
+mne_bids
+openpyxl
+nibabel
+wordfreq
+sklearn
+seaborn
+matplotlib
+tqdm
