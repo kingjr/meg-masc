@@ -2,7 +2,7 @@
 
 Laura Gwilliams, Graham Flick, Alec Marantz, Liina Pylkkänen, David Poeppel, Jean-Rémi King
 
-- [Paper](https://arxiv.org)
+- [Paper](https://arxiv.org/abs/2208.11488)
 - [Data](https://osf.io/ag3kj/)
 - [Code](https://github.com/kingjr/meg-masc)
 
